@@ -1,5 +1,7 @@
 <?php
 
+	print_r( 123 ) ; exit ;
+
   include "../../controller/conexao.php" ;
 
   $resposta = array( ) ;
